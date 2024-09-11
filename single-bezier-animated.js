@@ -67,7 +67,7 @@ function setup() {
     const root = document.documentElement;
     const rootStyles = getComputedStyle(root);
 
-    const primaryColor = rootStyles.getPropertyValue("--primary-c");
+    const primaryColor = rootStyles.getPropertyValue("--draw-line-animation-color");
     stroke(primaryColor);
 }
 
