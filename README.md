@@ -1,2 +1,2 @@
 # draw-line-animation
-Animates a line within an html page's `&lt;main>` element.
+Animates a line within an html page's `\<main>` element.
